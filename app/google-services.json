@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272451264001",
+    "project_id": "quicknotes-12002",
+    "storage_bucket": "quicknotes-12002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272451264001:android:e101d5334cf031260fea00",
+        "android_client_info": {
+          "package_name": "com.example.quicknotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8OEwUf95z1vzEAf5LCFOyuTK4dmiaq9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

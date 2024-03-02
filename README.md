@@ -47,7 +47,7 @@ This project is an Android application developed using Android Studio and Fireba
 3. Set up Firebase for the project and configure authentication and database rules.
 4. Build and run the application on an Android device or emulator.
 
-##Prototype
+## Prototype
 ![image](https://github.com/Nithyasrianandan/QuickNotesApp/assets/136810922/5e0287df-1867-46ee-8330-38b932bf3b98)
 
 

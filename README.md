@@ -48,7 +48,8 @@ This project is an Android application developed using Android Studio and Fireba
 4. Build and run the application on an Android device or emulator.
 
 ##Prototype
-https://www.figma.com/file/Gde7vBCuIatskVnPcbEDH4/Note-Taking-Mobile-App-(Community)?type=design&node-id=110-71&mode=design&t=BFdP7VulB5tpaNFA-4 
+![image](https://github.com/Nithyasrianandan/QuickNotesApp/assets/136810922/b559c08f-a79d-4628-ba5c-034adf3a5407)
+
 
 
 

@@ -47,8 +47,12 @@ This project is an Android application developed using Android Studio and Fireba
 3. Set up Firebase for the project and configure authentication and database rules.
 4. Build and run the application on an Android device or emulator.
 
-## Contributors
-- [Your Name](link to your GitHub profile)
+##Prototype
+![Screenshot_20240302-191637_QuickNotes](https://github.com/Nithyasrianandan/QuickNotesApp/assets/136810922/a63929e9-a72b-4fb7-9770-de694e8ad830)
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects. Contributions are welcome!
+
+
+## Contributors
+- [Nithya Sri](https://github.com/Nithyasrianandan)
+
+

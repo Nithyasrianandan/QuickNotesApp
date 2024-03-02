@@ -48,7 +48,8 @@ This project is an Android application developed using Android Studio and Fireba
 4. Build and run the application on an Android device or emulator.
 
 ##Prototype
-![image](https://github.com/Nithyasrianandan/QuickNotesApp/assets/136810922/71483d22-8d7e-4fec-8ed6-c2eee8a50dea)
+![image](https://github.com/Nithyasrianandan/QuickNotesApp/assets/136810922/5e0287df-1867-46ee-8330-38b932bf3b98)
+
 
 
 

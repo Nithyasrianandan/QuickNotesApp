@@ -1,6 +1,6 @@
 # Quick Notes Application
 
-This project is an Android application developed using Android Studio and Firebase, aimed at providing users with a convenient platform to manage their notes efficiently. The application incorporates essential features such as user authentication, note management, and synchronization with Firebase database for seamless access across devices.
+This project is an Android application developed using Android Studio and Firebase, aimed at providing users with a convenient platform to manage their notes efficiently. The application incorporates essential features such as user authentication, note management, and synchronization with the Firebase database for seamless access across devices.
 
 ## Features
 
@@ -48,7 +48,7 @@ This project is an Android application developed using Android Studio and Fireba
 4. Build and run the application on an Android device or emulator.
 
 ##Prototype
-![Screenshot_20240302-191637_QuickNotes](https://github.com/Nithyasrianandan/QuickNotesApp/assets/136810922/a63929e9-a72b-4fb7-9770-de694e8ad830)
+
 
 
 
